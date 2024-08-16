@@ -1,0 +1,7 @@
+name = "VisualExamples"
+uuid = "1f886864-7814-4baf-a1b6-b6ae7c84244d"
+authors = ["Aaron Kaw <aaronjkaw@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
