@@ -1,0 +1,6 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+VisualExamples = "1f886864-7814-4baf-a1b6-b6ae7c84244d"
+
+[compat]
+CairoMakie = "0.12"
